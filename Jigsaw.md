@@ -2,6 +2,8 @@
 Jigsaw is a mono-syllabic writing system that resembles a jigsaw puzzle. 
 
 
+*bad handwriting ahead; will replace with digital art later
+
 # Letters
 
 There are two groups of letter in Jigsaw: vertical letters (the consonants), and the horizontal letters (the vowels).
@@ -21,8 +23,6 @@ Writing direction is top-down, right-to-left. Each word occupies one column. The
 # Writing Tutorial
 
 I choose the Malay language because the language is almost mono-syllabic. Let's write the sentence "Mari belajar." meaning "Let's learn."
-
-*bad handwriting ahead; will replace with digital copy later
 
 1. Identify the words. For "Mari belajar", there are two words. Therefore, there is going to be two column for this sentence.
 
